@@ -8,11 +8,10 @@
 ---
 ## **Project Overview**
 To analyze lung cancer patient data and uncover key insights around survival rates, patient demographics, treatment factors, and trends that can support healthcare decisions.
+![lung1](https://github.com/user-attachments/assets/8cfb5747-5f4e-420b-8b60-e915cd234176)
+![lung2](https://github.com/user-attachments/assets/5582480d-ca82-457f-b813-78e6b1816fea)
+![lung3](https://github.com/user-attachments/assets/d6a1867f-84eb-4f50-9de1-ee78427b4a9c)
 
-![2025-07-10](https://github.com/user-attachments/assets/1c99097a-f25d-49a8-b1a1-1ddcbbc2ed0e)
-
-![2025-07-10 (1)](https://github.com/user-attachments/assets/1f715350-3efe-4e29-81f8-9bac1793e219)
-![2025-07-10 (2)](https://github.com/user-attachments/assets/4bfba897-90ec-464d-bf6a-4c6e74454709)
 
 ---
 
