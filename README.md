@@ -61,7 +61,7 @@ Use Case: To explore survival patterns and highlight risk factors in lung cancer
 1. **Low Overall Survival Rate**
 - Only 22% of total patients survived, while 78% did not. This indicates a critical issue that could be tied to late diagnosis, treatment effectiveness, or patient health profiles.
 2. **BMI and Duration Insights**
-- The average BMI is 30.49, falling into the obese category, suggesting a risk factor.Average treatment duration is quite long — 459 days — hinting at the chronic nature of lung cancer care.
+- The average BMI is 30.49, falling into the obese category, suggesting a risk factor.Average treatment duration is quite long  459 days  hinting at the chronic nature of lung cancer care.
 3. **Smoking Status**
 - Majority of patients are passive and former smokers.
 High number of passive smokers (5,087) shows exposure risk even without active smoking.
